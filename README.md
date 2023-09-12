@@ -31,61 +31,61 @@ Microsoft Officeではアクセントカラーは6色までしか登録できな
 </thead>
 <tbody>
 <tr>
-<td align="center"><span style="background-color: #000000">____</span></td>
+<td align="center"><img src="https://placehold.co/20x20/000000/000000.png"></td>
 <td align="center">黒</td>
 <td align="center">(0,0,0)</td>
 <td align="center">#000000</td>
 </tr>
 <tr>
-<td align="center"><span style="background-color: #FFFFFF">____</span></td>
+<td align="center"><img src="https://placehold.co/20x20/FFFFFF/FFFFFF.png"></td>
 <td align="center">白</td>
 <td align="center">(255,255,255)</td>
 <td align="center">#FFFFFF</td>
 </tr>
 <tr>
-<td align="center"><span style="background-color: #84919E">____</span></td>
+<td align="center"><img src="https://placehold.co/20x20/84919E/84919E.png"></td>
 <td align="center">グレー</td>
 <td align="center">(132,145,158)</td>
 <td align="center">#84919E</td>
 </tr>
 <tr>
-<td align="center"><span style="background-color: #C8C8CB">____</span></td>
+<td align="center"><img src="https://placehold.co/20x20/C8C8CB/C8C8CB.png"></td>
 <td align="center">明るいグレー</td>
 <td align="center">(200,200,203)</td>
 <td align="center">#C8C8CB</td>
 </tr>
 <tr>
-<td align="center"><span style="background-color: #FF4600">____</span></td>
+<td align="center"><img src="https://placehold.co/20x20/FF4600/FF4600.png"></td>
 <td align="center">赤</td>
 <td align="center">(255,75,0)</td>
 <td align="center">#FF4600</td>
 </tr>
 <tr>
-<td align="center"><span style="background-color: #FFF100">____</span></td>
+<td align="center"><img src="https://placehold.co/20x20/FFF100/FFF100.png"></td>
 <td align="center">黄</td>
 <td align="center">(255,241,0)</td>
 <td align="center">#FFF100</td>
 </tr>
 <tr>
-<td align="center"><span style="background-color: #03AF7A">____</span></td>
+<td align="center"><img src="https://placehold.co/20x20/03AF7A/03AF7A.png"></td>
 <td align="center">緑</td>
 <td align="center">(3,175,122)</td>
 <td align="center">#03AF7A</td>
 </tr>
 <tr>
-<td align="center"><span style="background-color: #005AFF">____</span></td>
+<td align="center"><img src="https://placehold.co/20x20/005AFF/005AFF.png"></td>
 <td align="center">青</td>
 <td align="center">(0,90,255)</td>
 <td align="center">#005AFF</td>
 </tr>
 <tr>
-<td align="center"><span style="background-color: #990099">____</span></td>
+<td align="center"><img src="https://placehold.co/20x20/990099/990099.png"></td>
 <td align="center">紫</td>
 <td align="center">(153,0,153)</td>
 <td align="center">#990099</td>
 </tr>
 <tr>
-<td align="center"><span style="background-color: #804000">____</span></td>
+<td align="center"><img src="https://placehold.co/20x20/804000/804000.png"></td>
 <td align="center">茶色</td>
 <td align="center">(128,64,0)</td>
 <td align="center">#804000</td>
@@ -111,61 +111,61 @@ Microsoft Officeではアクセントカラーは6色までしか登録できな
 </thead>
 <tbody>
 <tr>
-<td align="center"><span style="background-color: #000000">____</span></td>
+<td align="center"><img src="https://placehold.co/20x20/000000/000000.png"></td>
 <td align="center">黒</td>
 <td align="center">(0,0,0)</td>
 <td align="center">#000000</td>
 </tr>
 <tr>
-<td align="center"><span style="background-color: #FFFFFF">____</span></td>
+<td align="center"><img src="https://placehold.co/20x20/FFFFFF/FFFFFF.png"></td>
 <td align="center">白</td>
 <td align="center">(255,255,255)</td>
 <td align="center">#FFFFFF</td>
 </tr>
 <tr>
-<td align="center"><span style="background-color: #84919E">____</span></td>
+<td align="center"><img src="https://placehold.co/20x20/84919E/84919E.png"></td>
 <td align="center">グレー</td>
 <td align="center">(132,145,158)</td>
 <td align="center">#84919E</td>
 </tr>
 <tr>
-<td align="center"><span style="background-color: #C8C8CB">____</span></td>
+<td align="center"><img src="https://placehold.co/20x20/C8C8CB/C8C8CB.png"></td>
 <td align="center">明るいグレー</td>
 <td align="center">(200,200,203)</td>
 <td align="center">#C8C8CB</td>
 </tr>
 <tr>
-<td align="center"><span style="background-color: #FF4B00">____</span></td>
+<td align="center"><img src="https://placehold.co/20x20/FF4B00/FF4B00.png"></td>
 <td align="center">赤</td>
 <td align="center">(255,75,0)</td>
 <td align="center">#FF4B00</td>
 </tr>
 <tr>
-<td align="center"><span style="background-color: #F6AA00">____</span></td>
+<td align="center"><img src="https://placehold.co/20x20/F6AA00/F6AA00.png"></td>
 <td align="center">橙</td>
 <td align="center">(246,170,0)</td>
 <td align="center">#F6AA00</td>
 </tr>
 <tr>
-<td align="center"><span style="background-color: #F2E700">____</span></td>
+<td align="center"><img src="https://placehold.co/20x20/F2E700/F2E700.png"></td>
 <td align="center">黄</td>
 <td align="center">(242,231,0)</td>
 <td align="center">#F2E700</td>
 </tr>
 <tr>
-<td align="center"><span style="background-color: #00B06B">____</span></td>
+<td align="center"><img src="https://placehold.co/20x20/00B06B/00B06B.png"></td>
 <td align="center">緑</td>
 <td align="center">(0,176,107)</td>
 <td align="center">#00B06B</td>
 </tr>
 <tr>
-<td align="center"><span style="background-color: #1971FF">____</span></td>
+<td align="center"><img src="https://placehold.co/20x20/1971FF/1971FF.png"></td>
 <td align="center">青</td>
 <td align="center">(25,113,255)</td>
 <td align="center">#1971FF</td>
 </tr>
 <tr>
-<td align="center"><span style="background-color: #990099">____</span></td>
+<td align="center"><img src="https://placehold.co/20x20/990099/990099.png"></td>
 <td align="center">赤紫</td>
 <td align="center">(153,0,153)</td>
 <td align="center">#990099</td>
