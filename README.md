@@ -23,16 +23,16 @@ Microsoft Officeではアクセントカラーは6色までしか登録できな
 
 |見本|色名|RGB|カラーコード|
 |:-:|:-:|:-:|:-:|
-|<span style="background-color: #000000;">　　</span>|黒|(0,0,0)|#000000|
-|<span style="background-color: #FFFFFF;">　　</span>|白|(255,255,255)|#FFFFFF|
-|<span style="background-color: #84919E;">　　</span>|グレー|(132,145,158)|#84919E|
-|<span style="background-color: #C8C8CB;">　　</span>|明るいグレー|(200,200,203)|#C8C8CB|
-|<span style="background-color: #FF4600;">　　</span>|赤|(255,75,0)|#FF4600|
-|<span style="background-color: #FFF100;">　　</span>|黄|(255,241,0)|#FFF100|
-|<span style="background-color: #03AF7A;">　　</span>|緑|(3,175,122)|#03AF7A|
-|<span style="background-color: #005AFF;">　　</span>|青|(0,90,255)|#005AFF|
-|<span style="background-color: #990099;">　　</span>|紫|(153,0,153)|#990099|
-|<span style="background-color: #804000;">　　</span>|茶色|(128,64,0)|#804000|
+|<span style="background-color: #000000;">____</span>|黒|(0,0,0)|#000000|
+|<span style="background-color: #FFFFFF;">____</span>|白|(255,255,255)|#FFFFFF|
+|<span style="background-color: #84919E;">____</span>|グレー|(132,145,158)|#84919E|
+|<span style="background-color: #C8C8CB;">____</span>|明るいグレー|(200,200,203)|#C8C8CB|
+|<span style="background-color: #FF4600;">____</span>|赤|(255,75,0)|#FF4600|
+|<span style="background-color: #FFF100;">____</span>|黄|(255,241,0)|#FFF100|
+|<span style="background-color: #03AF7A;">____</span>|緑|(3,175,122)|#03AF7A|
+|<span style="background-color: #005AFF;">____</span>|青|(0,90,255)|#005AFF|
+|<span style="background-color: #990099;">____</span>|紫|(153,0,153)|#990099|
+|<span style="background-color: #804000;">____</span>|茶色|(128,64,0)|#804000|
 
 
 ### JIS安全色
@@ -44,16 +44,16 @@ Microsoft Officeではアクセントカラーは6色までしか登録できな
 
 |見本|色名|RGB|カラーコード|
 |:-:|:-:|:-:|:-:|
-|<span style="background-color: #000000;">　　</span>|黒|(0,0,0)|#000000|
-|<span style="background-color: #FFFFFF;">　　</span>|白|(255,255,255)|#FFFFFF|
-|<span style="background-color: #84919E;">　　</span>|グレー|(132,145,158)|#84919E|
-|<span style="background-color: #C8C8CB;">　　</span>|明るいグレー|(200,200,203)|#C8C8CB|
-|<span style="background-color: #FF4600;">　　</span>|赤|(255,75,0)|#FF4B00|
-|<span style="background-color: #F6AA00;">　　</span>|橙|(246,170,0)|#F6AA00|
-|<span style="background-color: #F2E700;">　　</span>|黄|(242,231,0)|#F2E700|
-|<span style="background-color: #00B06B;">　　</span>|緑|(0,176,107)|#00B06B|
-|<span style="background-color: #1971FF;">　　</span>|青|(25,113,255)|#1971FF|
-|<span style="background-color: #990099;">　　</span>|赤紫|(153,0,153)|#990099|
+|<span style="background-color: #000000;">____</span>|黒|(0,0,0)|#000000|
+|<span style="background-color: #FFFFFF;">____</span>|白|(255,255,255)|#FFFFFF|
+|<span style="background-color: #84919E;">____</span>|グレー|(132,145,158)|#84919E|
+|<span style="background-color: #C8C8CB;">____</span>|明るいグレー|(200,200,203)|#C8C8CB|
+|<span style="background-color: #FF4600;">____</span>|赤|(255,75,0)|#FF4B00|
+|<span style="background-color: #F6AA00;">____</span>|橙|(246,170,0)|#F6AA00|
+|<span style="background-color: #F2E700;">____</span>|黄|(242,231,0)|#F2E700|
+|<span style="background-color: #00B06B;">____</span>|緑|(0,176,107)|#00B06B|
+|<span style="background-color: #1971FF;">____</span>|青|(25,113,255)|#1971FF|
+|<span style="background-color: #990099;">____</span>|赤紫|(153,0,153)|#990099|
 
 
 ## インストール
